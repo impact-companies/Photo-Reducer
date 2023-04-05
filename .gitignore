@@ -1,1 +1,9 @@
 .vs/
+Assets/
+*.pyproj
+*.sln
+*.spec
+*.pyperf
+build/
+dist/
+env/
